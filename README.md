@@ -10,23 +10,23 @@ WE CHALL SYS1
 
   [Level 1]
   
-      - cd /home/level/02
-      - cd /blue/hats/grey/solution/patience
-      - cat solution
+      - cd /home/level/01_choise_tree : Naviguer vers le répertoire du niveau 1.
+      - cd /blue/hats/grey/solution/patience : Après avoir été redirigé vers le dossier "patience".
+      - cat solution : Le mot de passe est situé dans ce fichier.
 
   [Level 2]
 
-      - cd /home/level/02 
-      - ls -al
-      - cd .porb
-      - ls -al
-      - cat solution
+      - cd /home/level/02 : Aller vers le répertoire du niveau 2.
+      - ls -al : Afficher la liste des éléments du dossier 02, y compris les fichiers cachés.
+      - cd .porb : Dans ce répertoire, nous découvrons un dossier caché nommé .porb, que nous explorons ensuite.
+      - ls -al : Revoir tous les éléments du dossier .porb, puis trouver le fichier .solution.
+      - cat solution : Le mot de passe est situé dans ce fichier.
 
   [Level 3]
  
-      - cd /home/level/02
-      - ls -al
-      - cat .bash_hitsory
+      - cd /home/level/03 : Naviguer vers le répertoire du niveau 3.
+      - ls -al : Afficher la liste des éléments du dossier 03, y compris les fichiers cachés.
+      - cat .bash_hitsory : Le mot de passe est situé sur la première ligne.
 
   [Level 4]
 
