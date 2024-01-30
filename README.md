@@ -30,19 +30,19 @@ WE CHALL SYS1
 
   [Level 4]
 
-      - cd /home/level/04_kwisatz
-      - ls -al
-      - cat README.nfo
-      - ls
-      - cd level
-      - cd 04_kwisatz
-      - chmod 755 README 
-      -
+      - cd /home/level/04_kwisatz : Naviguer vers le répertoire du niveau 4.
+      - ls -al : Afficher la liste des éléments du dossier 04_kwisatz, y compris les fichiers cachés.
+      - cat README.nfo : Puis on nous demande de nous rediriger vers le repertoire principal.
+      - ls : Voir les elements du repertoire.
+      - cd level : Puis ls pour voir le dossier. B4_kwdsatz.
+      - cd 04_kwisatz : Ensuite ls pour voir les 02 fichiers READNE2.md et READMEtxt'.
+      - chmod 755 README2.md puis cat README.md : change la permission puis affiche le contenu.
+      - le mot de passe se trouve dans ce fichier README2.md
 
   [Level 5]
 
-      - cd /home/level/05_privacyz
-      - cat README;md
+      - cd /home/level/05_privacyz : Naviguer vers le répertoire du niveau 5.
+      - cat README.md : on affiche juste ce fichier et on trouve le mot de passe.
       
 
 
